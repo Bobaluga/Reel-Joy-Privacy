@@ -31,4 +31,4 @@ If this policy changes, the updated version will replace this page and the "Last
 
 ## Contact
 
-For any privacy questions, contact: your-email@example.com# Reel-Joy-Privacy
+For any privacy questions, contact: bobaluga69@gmail.com# Reel-Joy-Privacy
