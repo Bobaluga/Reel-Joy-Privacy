@@ -6,7 +6,7 @@
 
 Reel Joy is a personal iOS app developed by Sean Walsh in Brisbane, Australia. The app aggregates publicly available cinema session times from multiple Brisbane cinema chains into a single browsing view. The app links out to each cinema's official booking page and does not handle ticket purchases.
 
-For any questions about this policy, contact: your-email@example.com
+For any questions about this policy, contact: bobaluga69@gmail.com
 
 ## What data we collect
 
